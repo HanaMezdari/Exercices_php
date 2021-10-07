@@ -1,0 +1,110 @@
+
+        
+body{
+    background-image: url('fleur.jpg');
+         background-repeat: no-repeat;
+         background-position: center center;
+         background-size: cover;
+         height:100vh;
+         width:100vw;
+         overflow: hidden;
+         position:relative;
+
+        color: rgb(5, 5, 4);
+        font-size: 22px;
+        font-weight: bold;
+        font-family: 'Times New Roman', Times, serif;
+
+}
+.grid-container{
+    
+    padding: 50px 100px 20px 100px;
+}
+
+fieldset {
+   border: 3px solid rgb(40, 77, 17);
+   border-radius: 20px;
+   box-shadow:0 10px 15px 0 black;
+   margin: 30px;
+} 
+legend{
+     color: rgb(40, 77, 17);
+     font-size: 20px;
+} 
+#nom{
+    
+    margin-left: 115px;
+    width: 300px;
+    height: 25px;
+    border: 1px solid rgb(19, 17, 17);
+}
+#prenom{
+    
+    margin-left: 82px;
+    width: 300px;
+    height: 25px;
+    border: 1px solid rgb(19, 17, 17);
+}
+#catégorie{
+    
+    margin-left: 70px;
+    width: 300px;
+    height: 25px;
+    border: 1px solid rgb(19, 17, 17);
+}
+#scolaire{
+    
+    margin-left: 15px;
+    width: 300px;
+    height: 25px;
+    border: 1px solid rgb(19, 17, 17);
+}
+#NumeroCIN{
+    margin-left: 190px;
+    height: 25px;
+    border: 1px solid rgb(19, 17, 17);
+}
+
+#sexe{
+    margin-right: 110px;
+}
+
+#qualifications{
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left:38px ;
+    
+}
+.grid-item5{
+    display: flex;
+    margin-left: 2px;
+}
+.grid-item7 input{
+    width:90px ;
+    height: 25px;
+    border: 1px solid rgb(19, 17, 17);
+    margin-left: 30px;
+}
+.grid-item1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.grid-item2{
+    margin-left: 30px;
+}
+.grid-item3{
+    margin-left: 30px;
+}
+.grid-item4{
+    margin-left: 5px;
+}
+.grid-item6{
+    margin-left: 30px;
+}
+.grid-item8{
+    margin-left: 5px;
+}
+#submit{
+    width: 150px;
+    height: 25px;
+}

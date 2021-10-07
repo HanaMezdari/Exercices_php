@@ -1,0 +1,7 @@
+SAMIR 1982 Brest France 29
+SERGIO 1981 France Midi 30
+ZHAI 1985 Pekin Chine 26
+Denis 1980 Paris France 31
+Nadia 1990 Pau France 21
+Hichem 1977 Caen France 34
+David 1986 Paris France 25
